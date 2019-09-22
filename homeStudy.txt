@@ -1,0 +1,5 @@
+Goals
+    understand what computer program is
+    know the different programming models
+    know the types of programming languages
+    be able to build and environment that will enable codding
